@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f471ae69d6a115e459d816def99ede6f, type: 3}
+  m_Name: Food2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - H
+    - P
+    - X
+    - A
+    - L
+    - X
+    - Z
+    - L
+    - Z
+    - I
+  - Size: 10
+    Row:
+    - L
+    - R
+    - O
+    - Q
+    - J
+    - A
+    - C
+    - U
+    - G
+    - C
+  - Size: 10
+    Row:
+    - T
+    - T
+    - D
+    - D
+    - Y
+    - H
+    - F
+    - G
+    - I
+    - L
+  - Size: 10
+    Row:
+    - M
+    - O
+    - Y
+    - T
+    - E
+    - Z
+    - R
+    - L
+    - F
+    - T
+  - Size: 10
+    Row:
+    - J
+    - Z
+    - L
+    - E
+    - Z
+    - V
+    - J
+    - X
+    - K
+    - D
+  - Size: 10
+    Row:
+    - A
+    - Y
+    - S
+    - A
+    - G
+    - E
+    - K
+    - M
+    - R
+    - J
+  - Size: 10
+    Row:
+    - S
+    - E
+    - I
+    - K
+    - O
+    - O
+    - C
+    - O
+    - C
+    - K
+  - Size: 10
+    Row:
+    - F
+    - P
+    - M
+    - G
+    - B
+    - E
+    - U
+    - G
+    - X
+    - G
+  - Size: 10
+    Row:
+    - F
+    - D
+    - L
+    - Y
+    - I
+    - P
+    - S
+    - F
+    - J
+    - G
+  - Size: 10
+    Row:
+    - X
+    - D
+    - V
+    - G
+    - P
+    - G
+    - T
+    - X
+    - O
+    - P
+  SearchingWords:
+  - word: COOKIES
+  - word: CHEESE
+  - word: TEA

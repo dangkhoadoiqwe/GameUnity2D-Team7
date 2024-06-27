@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f471ae69d6a115e459d816def99ede6f, type: 3}
+  m_Name: sport1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - F
+    - S
+    - B
+    - Q
+    - U
+    - H
+    - N
+    - A
+    - V
+    - C
+  - Size: 10
+    Row:
+    - N
+    - O
+    - M
+    - V
+    - Z
+    - G
+    - L
+    - N
+    - O
+    - T
+  - Size: 10
+    Row:
+    - P
+    - E
+    - O
+    - B
+    - F
+    - M
+    - W
+    - E
+    - L
+    - S
+  - Size: 10
+    Row:
+    - P
+    - N
+    - F
+    - T
+    - M
+    - F
+    - F
+    - W
+    - L
+    - W
+  - Size: 10
+    Row:
+    - X
+    - C
+    - Y
+    - E
+    - B
+    - W
+    - R
+    - K
+    - E
+    - I
+  - Size: 10
+    Row:
+    - W
+    - L
+    - X
+    - N
+    - M
+    - A
+    - B
+    - P
+    - Y
+    - M
+  - Size: 10
+    Row:
+    - L
+    - Q
+    - P
+    - N
+    - W
+    - Y
+    - L
+    - L
+    - B
+    - M
+  - Size: 10
+    Row:
+    - Q
+    - N
+    - K
+    - I
+    - A
+    - N
+    - P
+    - L
+    - A
+    - I
+  - Size: 10
+    Row:
+    - S
+    - J
+    - E
+    - S
+    - S
+    - N
+    - S
+    - M
+    - L
+    - N
+  - Size: 10
+    Row:
+    - V
+    - O
+    - C
+    - M
+    - X
+    - L
+    - A
+    - J
+    - L
+    - G
+  SearchingWords:
+  - word: FOOTBALL
+  - word: TENNIS
+  - word: VOLLEYBALL
+  - word: SWIMMING

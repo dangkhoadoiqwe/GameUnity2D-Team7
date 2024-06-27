@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f471ae69d6a115e459d816def99ede6f, type: 3}
+  m_Name: Food3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Colums: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - E
+    - N
+    - O
+    - O
+    - D
+    - L
+    - E
+    - D
+    - V
+    - B
+  - Size: 10
+    Row:
+    - E
+    - P
+    - A
+    - B
+    - A
+    - S
+    - P
+    - T
+    - K
+    - A
+  - Size: 10
+    Row:
+    - Y
+    - R
+    - Z
+    - O
+    - Y
+    - P
+    - T
+    - A
+    - S
+    - A
+  - Size: 10
+    Row:
+    - C
+    - S
+    - M
+    - B
+    - T
+    - I
+    - H
+    - J
+    - J
+    - S
+  - Size: 10
+    Row:
+    - Z
+    - D
+    - Z
+    - U
+    - F
+    - Z
+    - G
+    - K
+    - X
+    - D
+  - Size: 10
+    Row:
+    - P
+    - O
+    - N
+    - E
+    - D
+    - Z
+    - J
+    - S
+    - I
+    - O
+  - Size: 10
+    Row:
+    - D
+    - O
+    - X
+    - O
+    - E
+    - A
+    - Q
+    - Y
+    - P
+    - N
+  - Size: 10
+    Row:
+    - D
+    - N
+    - H
+    - N
+    - Y
+    - I
+    - U
+    - N
+    - Z
+    - U
+  - Size: 10
+    Row:
+    - V
+    - X
+    - Y
+    - V
+    - M
+    - P
+    - G
+    - I
+    - O
+    - T
+  - Size: 10
+    Row:
+    - Y
+    - L
+    - N
+    - I
+    - W
+    - M
+    - S
+    - R
+    - A
+    - X
+  SearchingWords:
+  - word: PIZZA
+  - word: NOODLE
+  - word: DONUT
